@@ -58,13 +58,11 @@ Here are some ideas to get you started:
       Sleep-->Code;
 ```
 
+<!--
 ### 🔥 Recent GitHub Activity
+-->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-2. 💪 Opened PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-3. 🎉 Merged PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-4. 💪 Opened PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-5. 🎉 Merged PR [#9](https://github.com/MikeCodeur/react-hooks-avances/pull/9) in [MikeCodeur/react-hooks-avances](https://github.com/MikeCodeur/react-hooks-avances)
+
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
