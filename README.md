@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Mobile Application
-- 🌱 I’m currently learning [Swift](https://www.swift.org/)
-- 👯 I’m looking to collaborate on Dart/Flutter project
+- 🔭 I’m currently working on Mobile and Web Application
+- 🌱 I’m currently learning [Dart](https://dart.dev/), [Swift](https://www.swift.org/)
+- 👯 I’m looking to collaborate on Dart/Flutter 💙 project
 - 🤔 I’m looking for help with SwiftUI
 - 📫 How to reach me: [Twitter](https://twitter.com/m4xvyr) or [LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm in love with the japan culture 🇯🇵🍙
 
 ### Connect with me:
 
@@ -67,4 +67,7 @@ Here are some ideas to get you started:
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxvyr&show_icons=true&hide_border=false&count_private=true&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Maxvyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxvyr&show_icons=true&hide_border=false&count_private=true&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxvyr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
