@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Mobile and Web Application
-- 🌱 I’m currently learning [Dart](https://dart.dev/), [Swift](https://www.swift.org/)
+- 🌱 I’m currently learning [Dart](https://dart.dev/), [Typescript](https://www.typescriptlang.org/)
 - 👯 I’m looking to collaborate on Dart/Flutter 💙 project
-- 🤔 I’m looking for help with SwiftUI
+- 🤔 I’m looking for help with Typescript
 - 📫 How to reach me: [Twitter](https://twitter.com/m4xvyr) or [LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)
 - ⚡ Fun fact: I'm in love with the japan culture 🇯🇵🍙
 
