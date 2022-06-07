@@ -7,11 +7,15 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Mobile and Web Application
-- 🌱 I’m currently learning [Dart](https://dart.dev/), [Typescript](https://www.typescriptlang.org/)
-- 👯  I’m looking to collaborate on OpenSource Projects
-- 🤔 I’m looking for help with Typescript
-- 📫 How to reach me: [Twitter](https://twitter.com/m4xvyr) or [LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)
-- ⚡ Fun fact: I'm in love with the japan culture 🇯🇵🍙
+- 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), [NextJS](https://nextjs.org/)**
+- 👯  I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me: **[Twitter](https://twitter.com/m4xvyr)**, **[LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)**, **pandamydev@gmail.com**
+- ⚡ About Me: 
+  - **Indie Makers**
+  - **Personnal developpment**
+  - **finance**
+  - **I'm in love with the japan culture 🇯🇵🍙, manga, anime**
 
 ### Connect with me:
 
@@ -74,3 +78,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxvyr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+<a href="https://github.com/maxvyr/github-readme-activity-graph"><img alt="Maxvyr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maxvyr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
