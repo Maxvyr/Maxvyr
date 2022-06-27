@@ -80,3 +80,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/maxvyr/github-readme-activity-graph"><img alt="Maxvyr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maxvyr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxvyr&layout=compact&theme=tokyonight " alt="maxvyr's language" /> -->
