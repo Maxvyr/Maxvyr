@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **[Twitter](https://twitter.com/m4xvyr)**, **[LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)**, **pandamydev@gmail.com**
 - ⚡ About Me: 
-  - **Indie Makers**
-  - **Personnal developpment**
-  - **finance**
-  - **I'm in love with the japan culture 🇯🇵🍙, manga, anime**
+  - **🧑‍💻 Indie Makers**
+  - **🧘 Personnal developpment**
+  - **🏦 finance**
+  - **💖 japan 🇯🇵 and korean 🇰🇷 culture**
 
 ### Connect with me:
 
