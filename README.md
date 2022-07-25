@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/m4xvyr#gh-dark-mode-only)
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-dark-mode-only)
-[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/m4xvyr/#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/m4xvyr/#gh-dark-mode-only)
+[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/maxvyr_/#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/maxvyr_/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
