@@ -6,15 +6,16 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Mobile and Web Application
+- 🔭 I’m currently working on Web Application
 - 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), [NextJS](https://nextjs.org/)**
 - 👯  I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me: **[Twitter](https://twitter.com/m4xvyr)**, **[LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)**, **pandamydev@gmail.com**
+- 📫 How to reach me: **[Instagram](https://www.instagram.com/maxvyr_/)**, **[LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)**, **contact@maxvyr.xyz**
 - ⚡ About Me: 
   - **🧑‍💻 Indie Makers**
   - **🧘 Personnal developpment**
   - **🏦 finance**
+  - **🛫 Indonesia**
   - **💖 japan 🇯🇵 and korean 🇰🇷 culture**
 
 ### Connect with me:
@@ -23,8 +24,8 @@ Here are some ideas to get you started:
 [![img_contact](./img/globe-dark.svg)](https://maxvyr.com#gh-dark-mode-only)
 [![img_contact](./img/youtube-light.svg)](https://www.youtube.com/user/maxvid30#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://www.youtube.com/user/maxvid30#gh-dark-mode-only)
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/m4xvyr#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/m4xvyr#gh-dark-mode-only)
+[![img_contact](./img/instagram-light.svg)](https://instagram.com/maxvyr_#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://instagram.com/maxvyr_#gh-dark-mode-only)
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-dark-mode-only)
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/maxvyr_/#gh-light-mode-only)
