@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 [![img_contact](./img/globe-dark.svg)](https://maxvyr.com#gh-dark-mode-only)
 [![img_contact](./img/youtube-light.svg)](https://www.youtube.com/user/maxvid30#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://www.youtube.com/user/maxvid30#gh-dark-mode-only)
-[![img_contact](./img/instagram-light.svg)](https://instagram.com/maxvyr_#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/maxvyr_#gh-dark-mode-only)
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-dark-mode-only)
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/maxvyr_/#gh-light-mode-only)
@@ -45,7 +43,6 @@ Here are some ideas to get you started:
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="iOS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="padding-right:11px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:11px;" />
@@ -62,13 +59,6 @@ Here are some ideas to get you started:
       Eat-->Sleep;
       Sleep-->Code;
 ```
-
-<!--
-### 🔥 Recent GitHub Activity
--->
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
 
