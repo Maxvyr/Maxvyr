@@ -15,8 +15,8 @@ Here are some ideas to get you started:
   - **🧑‍💻 Indie Makers**
   - **🧘 Personnal developpment**
   - **🏦 finance**
-  - **🛫 Bali**
-  - **💖 japan 🇯🇵 and korean 🇰🇷 culture**
+  - **🛫 South Asia**
+  - **💖 japan 🇯🇵, korean 🇰🇷, chinese 🇹🇼🇨🇳 culture **
 
 ### Connect with me:
 
