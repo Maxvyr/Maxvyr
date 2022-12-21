@@ -61,12 +61,3 @@ Here are some ideas to get you started:
 [![Maxvyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxvyr&show_icons=true&hide_border=false&count_private=true&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxvyr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<a href="https://github.com/maxvyr/github-readme-activity-graph"><img alt="Maxvyr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maxvyr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
-### 📺  Last Video 
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
