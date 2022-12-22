@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning **[SwiftUI](https://developer.apple.com/xcode/swiftui/)** -->
 - 👯  I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me: **[Twitter](https://twitter.com/m4xvyr)**, **[LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)**, **[Youtube](https://www.youtube.com/user/maxvid30)** **contact@pandamy.xyz**
+- 📫 How to reach me: **[Twitter](https://twitter.com/m4xvyr)**, **[LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)**, **[Youtube](https://www.youtube.com/user/maxvid30)**, **contact@pandamy.xyz**
 - ⚡ About Me: 
   - **🧑‍💻 Indie Makers**
   - **🧘 Personnal developpment**
