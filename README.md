@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an [iOS Application](https://apps.apple.com/fr/app/tengu-sensei/id1558435052) and and [Android Application](https://play.google.com/store/apps/details?id=com.pandamy.tengu_sensei) and the [website](https://tengusensei.com/) for this app 
+- 🔭 I’m currently working on an [iOS Application](https://apps.apple.com/fr/app/tengu-sensei/id1558435052) and [Android Application](https://play.google.com/store/apps/details?id=com.pandamy.tengu_sensei) and there [website](https://tengusensei.com/) 
 <!-- - 🌱 I’m currently learning **[SwiftUI](https://developer.apple.com/xcode/swiftui/)** -->
 - 👯  I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - **🧘 Personnal developpment**
   - **🏦 finance**
   - **🛫 South Asia**
-  - **💖 japan 🇯🇵, korean 🇰🇷, chinese 🇹🇼🇨🇳 culture **
+  - **💖 japan 🇯🇵, korean 🇰🇷, chinese 🇹🇼🇨🇳 culture**
 
 ### Connect with me:
 
