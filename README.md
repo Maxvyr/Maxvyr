@@ -28,12 +28,18 @@ Here are some ideas to get you started:
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-dark-mode-only)
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/maxvyr_/#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/maxvyr_/#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/maxvyr_/#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/maxvyr_/#gh-dark-mode-only)
+[![img_contact](./img/github-light.svg)](https://github.com/Maxvyr/#gh-light-mode-only)
+[![img_contact](./img/github-dark.svg)](https://github.com/Maxvyr/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
 <img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:11px;" />
+<img align="left" alt="Android" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:11px;" />
+<img align="left" alt="Kotlin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:11px;" />
 <img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
 <img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
