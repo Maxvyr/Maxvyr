@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 ### ⭐ GitHub Stats
 
-[![Maxvyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxvyr&show_icons=true&hide_border=false&count_private=true&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/Maxvyr/github-readme-stats)
+[![Maxvyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxvyr&show_icons=true&hide_border=false&count_private=true&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxvyr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxvyr&theme=tokyonight&layout=compact)](https://github.com/Maxvyr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxvyr&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
