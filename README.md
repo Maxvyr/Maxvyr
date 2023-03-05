@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - **🧘 Personnal developpment**
   - **🏦 finance**
   - **🛫 South Asia**
-  - **💖 japan 🇯🇵, korean 🇰🇷, chinese 🇹🇼🇨🇳 culture**
+  - **💖 japan 🇯🇵, chinese 🇹🇼🇨🇳, vietnamese 🇻🇳 culture**
 
 ### Connect with me:
 
