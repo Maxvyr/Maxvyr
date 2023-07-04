@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an [iOS Application](https://apps.apple.com/fr/app/tengu-sensei/id1558435052) and [Android Application](https://play.google.com/store/apps/details?id=com.pandamy.tengu_sensei) and there [website](https://tengusensei.com/) 
+- 🔭 I’m currently working on an [iOS Application](https://apps.apple.com/fr/app/tengu-sensei/id1558435052) and [Android Application](https://play.google.com/store/apps/details?id=com.pandamy.tengu_sensei) and there [website](https://tengusensei.com/)
 <!-- - 🌱 I’m currently learning **[SwiftUI](https://developer.apple.com/xcode/swiftui/)** -->
-- 👯  I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me: **[Twitter](https://twitter.com/m4xvyr)**, **[LinkedIn](https://www.linkedin.com/in/maxime-vidalinc)**, **[Youtube](https://www.youtube.com/user/maxvid30)**, **contact@pandamy.xyz** (only for freelancing)
-- ⚡ About Me: 
+- ⚡ About Me:
   - **🧑‍💻 Indie Makers**
   - **🧘 Personnal developpment**
   - **🏦 finance**
@@ -46,21 +46,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Android" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:11px;" />
 <img align="left" alt="Rust" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:11px;" />
 
-
 <br />
 <br />
-
-### My daily routine :
-
-```mermaid
-  graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
-```
 
 ### ⭐ GitHub Stats
-
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxvyr&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="naagalgates" /></p>
 
