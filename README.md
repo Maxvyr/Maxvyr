@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://maxvyr.com#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://maxvyr.com#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://vidakei.com#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://vidakei.com#gh-dark-mode-only)
 [![img_contact](./img/youtube-light.svg)](https://www.youtube.com/@maximevidalinc#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://www.youtube.com/@maximevidalinc#gh-dark-mode-only)
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/maxime-vidalinc/#gh-light-mode-only)
