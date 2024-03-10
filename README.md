@@ -50,8 +50,3 @@
 [![Maxvyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxvyr&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxvyr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### 📺 Last Youtube:
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
